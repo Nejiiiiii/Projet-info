@@ -1,4 +1,4 @@
-all.exec
+all:exec
 CODE_FINAL.o:CODE_FINAL.c Fonctionsducode.h
               gcc -c CODE_FINAL.c -o CODE_FINAL.o
 
