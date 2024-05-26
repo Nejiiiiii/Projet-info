@@ -1,4 +1,4 @@
-#include "Fonctionsducode.h"
+#include "Fonctions.h"
 
 // Fonction pour lire un entier de manière sécurisée.
 int lireEntier() {
